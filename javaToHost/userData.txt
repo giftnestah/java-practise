@@ -1,0 +1,5 @@
+Chris Maina:Python
+Amos Kwatuha:Bash Script
+Reuben Muli:Javascript
+Methu Nyongesa:C++
+Gift Nestah:Java
